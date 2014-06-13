@@ -6,7 +6,7 @@ package btcchain
 
 import (
 	"errors"
-	"github.com/conformal/btclog"
+	"github.com/monetas/btclog"
 	"io"
 )
 

@@ -12,7 +12,7 @@ interface.  The functions are only exported while the tests are being run.
 package btcchain
 
 import (
-	"github.com/conformal/btcutil"
+	"github.com/monetas/btcutil"
 	"time"
 )
 

@@ -6,9 +6,9 @@ package btcchain
 
 import (
 	"fmt"
-	"github.com/conformal/btcscript"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcscript"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 	"math"
 	"runtime"
 )
