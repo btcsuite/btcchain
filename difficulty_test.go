@@ -5,7 +5,7 @@
 package btcchain_test
 
 import (
-	"github.com/conformal/btcchain"
+	"github.com/monetas/btcchain"
 	"math/big"
 	"testing"
 )

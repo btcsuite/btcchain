@@ -5,8 +5,8 @@
 package btcchain
 
 import (
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 	"math"
 )
 

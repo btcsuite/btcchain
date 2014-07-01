@@ -7,9 +7,9 @@ package btcchain_test
 import (
 	"compress/bzip2"
 	"encoding/binary"
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcchain"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 	"io"
 	"os"
 	"path/filepath"

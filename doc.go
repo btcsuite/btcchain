@@ -70,11 +70,11 @@ intentionally causes an error by attempting to process a duplicate block.
 
 	import (
 		"fmt"
-		"github.com/conformal/btcchain"
-		"github.com/conformal/btcdb"
-		_ "github.com/conformal/btcdb/ldb"
-		"github.com/conformal/btcnet"
-		"github.com/conformal/btcutil"
+		"github.com/monetas/btcchain"
+		"github.com/monetas/btcdb"
+		_ "github.com/monetas/btcdb/ldb"
+		"github.com/monetas/btcnet"
+		"github.com/monetas/btcutil"
 		"os"
 	)
 

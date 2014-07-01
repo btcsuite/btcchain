@@ -5,10 +5,10 @@
 package btcchain_test
 
 import (
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcchain"
+	"github.com/monetas/btcnet"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 	"math"
 	"reflect"
 	"testing"

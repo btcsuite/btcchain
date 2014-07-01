@@ -6,8 +6,8 @@ package btcchain
 
 import (
 	"fmt"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when
