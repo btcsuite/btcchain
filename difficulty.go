@@ -6,7 +6,7 @@ package btcchain
 
 import (
 	"fmt"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcwire"
 	"math/big"
 	"time"
 )
